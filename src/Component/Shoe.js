@@ -84,7 +84,7 @@ const Shoe = () => {
             <div className="shoe_store">
                 <nav className="navBar">
                     <ul className="nav_link">
-                        <li className="icon"><img src={icon} alt={"icon"}/></li>
+                        <li className="icon"><img src={icon} alt="icon"/></li>
                         <li>Home</li>
                         <li>
                             Categories
